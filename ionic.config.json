@@ -1,8 +1,7 @@
 {
-  "name": "b3runtime",
-  "app_id": "2564a440",
-  "type": "ionic-angular",
+  "name": "b3runtime-app",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "type": "angular"
 }
